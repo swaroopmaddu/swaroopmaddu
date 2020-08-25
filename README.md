@@ -47,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
 </a>
 <a href="https://github.com/swaroopmaddu/MotivationalQuotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=MotivationalQuotes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=MotivationalQuotes1" />
 </a>
 
 <a href="https://github.com/swaroopmaddu/RemindMe">
