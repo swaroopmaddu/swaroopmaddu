@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Flutter and Python.
-- 📫 How to reach me: Twitter - @MadduSwaroop Facebook - maddu.swaroop 
+- 📫 How to reach me: [Twitter - @MadduSwaroop](https://twitter.com/Madduswaroop) , [Instagram - @madduswaroop](https://instagram.com/madduswaroop)
 - 😄 Pronouns: He/His
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: When you are sure about your code it doesn't work
@@ -35,6 +35,12 @@
 
 
 <hr>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories if they help you!
+
+</div>
 
 <a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
