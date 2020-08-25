@@ -6,8 +6,8 @@
 - 💬 Ask me about Flutter and Python.
 - 📫 How to reach me: [Twitter - @MadduSwaroop](https://twitter.com/Madduswaroop) , [Instagram - @madduswaroop](https://instagram.com/madduswaroop)
 - 😄 Pronouns: He/His
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: When you are sure about your code it doesn't work
+-  :trophy: 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: When you sure about your code it doesn't work.
 
 <hr>
 
