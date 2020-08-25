@@ -45,8 +45,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
 </a>
 
-<br>
 
+<span height="50">
+  
 <a href="https://github.com/swaroopmaddu/LetsChat_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
 </a>
