@@ -7,7 +7,7 @@
 - 📫 How to reach me: Twitter - @MadduSwaroop Facebook - maddu.swaroop 
 - 😄 Pronouns: He/His
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
+- ⚡ Fun fact: When you are sure about your code it doesn't work
 
 <hr>
 
