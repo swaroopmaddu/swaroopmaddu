@@ -42,8 +42,7 @@
 
 <a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
-</a>  
-<a href="https://github.com/swaroopmaddu/TriviaQuiz">
+</a>  <a href="https://github.com/swaroopmaddu/TriviaQuiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
 </a>
 
