@@ -26,21 +26,35 @@
 <br>
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/swaroopmaddu/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroopmaddu&show_icons=true&hide=prs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a>  
+<a href="https://github.com/swaroopmaddu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopmaddu&layout=compact" />
 </a>
 
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a>  
+<a href="https://github.com/swaroopmaddu/TriviaQuiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
+</a>
+
+<a href="https://github.com/swaroopmaddu/LetsChat_Flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
+</a>
+<a href="https://github.com/swaroopmaddu/MotivationalQuotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=MotivationalQuotes" />
+</a>
+
+<a href="https://github.com/swaroopmaddu/RemindMe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=RemindMe" />
+</a>
+<a href="https://github.com/swaroopmaddu/asweomeLogin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=asweomeLogin" />
 </a>
 
 
