@@ -50,8 +50,8 @@
 <a href="https://github.com/swaroopmaddu/LetsChat_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
 </a>
-<a href="https://github.com/swaroopmaddu/MotivationalQuotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=MotivationalQuotes" />
+<a href="https://github.com/swaroopmaddu/GoogleSignInDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=GoogleSignInDemo" />
 </a>
 
 <a href="https://github.com/swaroopmaddu/RemindMe">
