@@ -43,9 +43,12 @@
 <a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
 </a>  
+<div style="width:20px"></div>
 <a href="https://github.com/swaroopmaddu/TriviaQuiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
 </a>
+
+<br>
 
 <a href="https://github.com/swaroopmaddu/LetsChat_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
@@ -53,6 +56,8 @@
 <a href="https://github.com/swaroopmaddu/GoogleSignInDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=GoogleSignInDemo" />
 </a>
+
+<br>
 
 <a href="https://github.com/swaroopmaddu/RemindMe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=RemindMe" />
