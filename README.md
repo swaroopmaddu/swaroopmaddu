@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/swaroopmaddu/LetsChat_Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=GoogleSignInDemo" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/swaroopmaddu/RemindMe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=RemindMe" />
