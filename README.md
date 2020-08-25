@@ -40,8 +40,6 @@
 
 ### Show some ❤️ by starring some of the repositories if they help you!
 
-</div>
-
 <a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
 </a>  
@@ -62,5 +60,7 @@
 <a href="https://github.com/swaroopmaddu/asweomeLogin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=asweomeLogin" />
 </a>
+
+</div>
 
 
