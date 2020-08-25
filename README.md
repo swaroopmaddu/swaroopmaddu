@@ -12,6 +12,7 @@
 <hr>
 
 ### Connect with me:
+
 [<img align="left" alt="MadduSwaroop | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="madduswaroop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="madduswaroop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -22,7 +23,7 @@
 [instagram]: https://instagram.com/madduswaroop
 [facebook]: https://www.facebook.com/maddu.swaroop
 
-
+<br>
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
