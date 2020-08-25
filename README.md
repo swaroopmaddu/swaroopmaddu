@@ -34,7 +34,6 @@
 </a>
 
 
-<hr>
 
 <div align="center" style="display: flex; justify-content: space-between;margin: 0 auto;  padding: 10px 0;">
 
