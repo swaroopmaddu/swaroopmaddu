@@ -36,14 +36,13 @@
 
 <hr>
 
-<div align="center">
+<div align="center" style="display:flex;justify-content: space-between;">
 
 ### Show some ❤️ by starring some of the repositories if they help you!
 
 <a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
 </a>  
-<div style="width:20px"></div>
 <a href="https://github.com/swaroopmaddu/TriviaQuiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
 </a>
@@ -67,5 +66,3 @@
 </a>
 
 </div>
-
-
