@@ -35,7 +35,7 @@
 
 
 
-<div align="center" style="display: flex; justify-content: space-between;margin: 0 auto;  padding: 10px 0;">
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories if they help you!
 
