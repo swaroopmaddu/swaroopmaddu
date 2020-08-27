@@ -12,17 +12,26 @@
 <hr>
 
 ### Connect with me:
-<p>
-<img align="left" alt="MadduSwaroop | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter][twitter]
-<img align="left" alt="madduswaroop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin][linkedin]
-<img align="left" alt="madduswaroop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram][instagram]
-<img align="left" alt="maddu.swaroop | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[facebook][facebook]
+<!--
+[<img align="left" alt="MadduSwaroop | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="madduswaroop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="madduswaroop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="maddu.swaroop | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+  
+[twitter]: https://twitter.com/Madduswaroop
+[linkedin]: https://www.linkedin.com/in/madduswaroop
+[instagram]: https://instagram.com/madduswaroop
+[facebook]: https://www.facebook.com/maddu.swaroop -->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
 [twitter]: https://twitter.com/Madduswaroop
 [linkedin]: https://www.linkedin.com/in/madduswaroop
 [instagram]: https://instagram.com/madduswaroop
 [facebook]: https://www.facebook.com/maddu.swaroop
-</p>
 
 
 <br>
