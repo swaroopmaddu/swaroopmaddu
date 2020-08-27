@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Flutter and Python.
-- 📫 How to reach me: [Twitter - @MadduSwaroop](https://twitter.com/Madduswaroop) , [Instagram - @madduswaroop](https://instagram.com/madduswaroop)
+- 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
 -  :trophy: 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: When you sure about your code it doesn't work.
@@ -28,6 +28,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+[website]: http://swaroopmaddu.github.io/
 [twitter]: https://twitter.com/Madduswaroop
 [linkedin]: https://www.linkedin.com/in/madduswaroop
 [instagram]: https://instagram.com/madduswaroop
