@@ -10,7 +10,7 @@
 - ⚡ Fun fact: When you sure about your code it doesn't work.
 
 
-🏡 [website][website] **|** 🐦 [twitter][twitter] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin]
+🌏 [website][website] **|** 🐦 [twitter][twitter] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|** 📱[facebook][facebook]
 
 [website]: http://swaroopmaddu.github.io/
 [twitter]: https://twitter.com/Madduswaroop
