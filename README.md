@@ -21,15 +21,12 @@
 
 <br>
 <hr>
-<div style="display:flex;">
 <a href="https://github.com/swaroopmaddu/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroopmaddu&show_icons=true&hide=prs" />
 </a> 
 <a href="https://github.com/swaroopmaddu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopmaddu&layout=compact" />
 </a>
-</div>
-
 
 
 <div align="center">
@@ -38,7 +35,8 @@
 
 <a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
-</a>  <a href="https://github.com/swaroopmaddu/TriviaQuiz">
+</a>  
+<a href="https://github.com/swaroopmaddu/TriviaQuiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
 </a>
 
