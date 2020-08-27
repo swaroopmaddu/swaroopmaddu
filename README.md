@@ -21,13 +21,14 @@
 
 <br>
 <hr>
-
+<div style="display:flex;">
 <a href="https://github.com/swaroopmaddu/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroopmaddu&show_icons=true&hide=prs" />
-</a>  
+</a> 
 <a href="https://github.com/swaroopmaddu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopmaddu&layout=compact" />
 </a>
+</div>
 
 
 
