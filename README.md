@@ -32,31 +32,3 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories if they help you!
-
-<a href="https://github.com/swaroopmaddu/PlaystoreReviewsScrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=PlaystoreReviewsScrapper" />
-</a>  
-<a href="https://github.com/swaroopmaddu/TriviaQuiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=TriviaQuiz" />
-</a>
-
-
-<span height="50">
-  
-<a href="https://github.com/swaroopmaddu/LetsChat_Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=LetsChat_Flutter" />
-</a>
-<a href="https://github.com/swaroopmaddu/GoogleSignInDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=GoogleSignInDemo" />
-</a>
-
-<br>
-
-<a href="https://github.com/swaroopmaddu/RemindMe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=RemindMe" />
-</a>
-<a href="https://github.com/swaroopmaddu/asweomeLogin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swaroopmaddu&repo=asweomeLogin" />
-</a>
-
-</div>
