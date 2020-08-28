@@ -10,14 +10,14 @@
 - ⚡ Fun fact: When you sure about your code it doesn't work.
 
 
-<!--🌏 [website][website] **|**--> 🐦 [twitter][twitter] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|** 📱[facebook][facebook]
+ 🐦 [twitter][twitter] **|** 📷 [instagram][instagram] **|** 👔 [linkedin][linkedin] **|** 📱[facebook][facebook]
 
 [website]: http://swaroopmaddu.github.io/
 [twitter]: https://twitter.com/Madduswaroop
 [linkedin]: https://www.linkedin.com/in/madduswaroop
 [instagram]: https://instagram.com/madduswaroop
 [facebook]: https://www.facebook.com/maddu.swaroop
-
+<!--🌏 [website][website] **|**-->
 
 <br>
 <hr>
