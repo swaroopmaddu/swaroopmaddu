@@ -31,4 +31,4 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories if they help you!
+###   ❤️ the repositories if they help you!
