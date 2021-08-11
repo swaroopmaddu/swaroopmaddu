@@ -2,11 +2,11 @@
 
 
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Blockchain Development.
 - 💬 Ask me about Flutter and Python.
 - 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
--  :trophy: 2020 Goals: Contribute more to Open Source projects
+-  :trophy: 2021 Goals: Improve myself
 - ⚡ Fun fact: When you sure about your code it doesn't work.
 
 
