@@ -1,4 +1,4 @@
-### Hello dev, I'm Swaroop 👋 :man_technologist:
+### Hello Dev, I'm Swaroop 👋 :man_technologist:
 
 
 
