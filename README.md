@@ -1,5 +1,5 @@
 ### Hello Dev, I'm Swaroop 👋 :man_technologist:
-
+<img  align="right" src="https://komarev.com/ghpvc/?username=swaroopmaddu&label=Profile+Views&color=blue&style=plastic" alt="Views" />
 
 
 - 🌱 I’m currently learning Blockchain Development.
@@ -21,12 +21,13 @@
 
 <br>
 <hr>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroopmaddu&show_icons=true&hide=prs" />
-</p> 
-<p>
+
+ <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroopmaddu&show_icons=true" />
+</a>
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopmaddu&layout=compact" />
-</p>
+</a>
 
 
 <div align="center">
