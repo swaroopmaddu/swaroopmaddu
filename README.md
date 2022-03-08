@@ -6,7 +6,7 @@
 - 💬 Ask me about Solana.
 - 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
--  :trophy: 2021 Goals: Improve myself
+-  :trophy: 2022 Goals: Master Solana development
 - ⚡ Fun fact: When you sure about your code it doesn't work.
 <br>
 <a href="https://github.com/swaroopmaddu/" target="_blank">
