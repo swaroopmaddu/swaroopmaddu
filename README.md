@@ -25,7 +25,7 @@
 <img src=	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagran style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://swaroopmaddu.me/" target="_blank">
+<a href="https://swaroopmaddu.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>  
 
