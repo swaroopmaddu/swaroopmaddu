@@ -6,9 +6,9 @@
 - 💬 Ask me about Solana.
 - 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
-
-
 <br>
+
+<div align="center">  
 <a href="https://github.com/swaroopmaddu/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -28,6 +28,7 @@
 <a href="https://swaroopmaddu.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>  
+</div>
 
 ## Languages and Tools  
 <div align="center">  
