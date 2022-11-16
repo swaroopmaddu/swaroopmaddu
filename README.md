@@ -15,10 +15,10 @@
 <a href="https://stackoverflow.com/users/8326080/maddu-swaroop" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=Stackoverflow style="margin-bottom: 5px;" />
 </a>  
-<a href="https://twitter.com/Madduswaroop" target="_blank">
+<a href="https://twitter.com/madduswaroop" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/madduswaroop" target="_blank">
+<a href="https://www.linkedin.com/in/swaroopmaddu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/madduswaroop" target="_blank">
