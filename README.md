@@ -64,10 +64,3 @@
 | ------------- | ------------- |
 
 <br/>  
-
-
-<div align="center">
-
-###   ⭐ the repositories if they help you!
-  
- </div>
