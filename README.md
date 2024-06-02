@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/swaroopmaddu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/madduswaroop" target="_blank">
+<a href="https://instagram.com/swaroopmaddu" target="_blank">
 <img src=	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagran style="margin-bottom: 5px;" />
 </a>
 
