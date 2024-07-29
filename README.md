@@ -2,7 +2,6 @@
 <img  align="right" src="https://komarev.com/ghpvc/?username=swaroopmaddu&label=Profile+Views&color=blue&style=plastic" alt="Views" />
 
 
-- 🌱 I’m currently learning Blockchain Development.
 - 💬 Ask me about Solana.
 - 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
