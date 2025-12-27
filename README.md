@@ -3,6 +3,8 @@
 
 
 - 💬 Ask me about Solana.
+- 🔐 **Solana / Security Research Contributions:** https://github.com/swaroop-osec
+
 - 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
 <br>
