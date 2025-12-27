@@ -1,12 +1,16 @@
 ### Hello Dev, I'm Swaroop 👋 :man_technologist:
 <img  align="right" src="https://komarev.com/ghpvc/?username=swaroopmaddu&label=Profile+Views&color=blue&style=plastic" alt="Views" />
 
-
-- 💬 Ask me about Solana.
-- 🔐 **Solana / Security Research Contributions:** https://github.com/swaroop-osec
+- 🔭 I’m currently working on Anchor / Solana  
+- 👯 I’m looking to collaborate on Solana & Rust  
+- 🌱 I’m currently learning advanced Rust  
+- 💬 Ask me about crypto  
+- ⚡ Fun fact: Shipping > perfecting
 
 - 📫 How to reach me: <a href="mailto:madduswaroop@gmail.com">madduswaroop@gmail.com</a>
 - 😄 Pronouns: He/His
+- 🔐 **Solana / Security Research Contributions:** https://github.com/swaroop-osec
+
 <br>
 
 <div align="center">  
@@ -58,10 +62,4 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>  
 
-<br/>  
 
-## Github Stats 
-|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroopmaddu&show_icons=true" /> |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopmaddu&layout=compact" /> |
-| ------------- | ------------- |
-
-<br/>  
