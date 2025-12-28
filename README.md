@@ -1,5 +1,10 @@
 ### Hello Dev, I'm Swaroop 👋 :man_technologist:
+
+<img  align="left" src="https://github-readme-badge.peerlist.io/api/swaroopmaddu" alt="Peerlist" />
 <img  align="right" src="https://komarev.com/ghpvc/?username=swaroopmaddu&label=Profile+Views&color=blue&style=plastic" alt="Views" />
+
+<br>
+
 
 - 🔭 I’m currently working on Anchor / Solana  
 - 👯 I’m looking to collaborate on Solana & Rust  
