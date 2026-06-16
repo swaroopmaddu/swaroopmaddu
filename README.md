@@ -1,6 +1,5 @@
 ### Hello Dev, I'm Swaroop 👋 :man_technologist:
 
-[<img align="left" src="https://github-readme-badge.peerlist.io/api/swaroopmaddu" alt="Peerlist" />](https://peerlist.io/swaroopmaddu)
 <img  align="right" src="https://komarev.com/ghpvc/?username=swaroopmaddu&label=Profile+Views&color=blue&style=plastic" alt="Views" />
 
 <br>
